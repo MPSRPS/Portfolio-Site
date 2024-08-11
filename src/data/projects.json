@@ -1,0 +1,29 @@
+
+
+
+[
+  {
+    "title": "Clever Books",
+    "imageSrc": "projects/clever books.jpg",
+    "description": " Developed as part of an assignment, Clever Book Site is a web application designed to provide users with a seamless experience in discovering and managing their book collections",
+    "github":"https://github.com/MPSRPS/CleverBooks"
+  },
+  {
+    "title": "Fire detection system using CCTV Surveillance Camera",
+    "imageSrc": "projects/fire detection.gif",
+    "description": "Developed a real-time fire detection and alert system using OpenCV and Twilio API, featuring cascade model integration and immediate, customizable notifications.",
+    "github":"https://github.com/MPSRPS/Fire-detection-system-using-CCTV-Surveillance-Camera"
+  },
+  {
+    "title": "Employee Management System (MERN Stack)",
+    "imageSrc": "projects/empmanagement.jpg",
+    "description": "A streamlined app for managing employees—add, view, edit, delete—featuring a smooth UI with React and an efficient backend with Node.js.",
+    "github":"https://github.com/MPSRPS/Employee-Management-MERN-Stack-"
+  },
+  {
+    "title": "Vishwapreneur'24 Event Website",
+    "imageSrc": "projects/vishwa24.jpg",
+    "description": "Developed the official event website for Vishwapreneur '24, utilizing React to create a dynamic and engaging platform for Pune's premier entrepreneurship event.",
+    "github":"https://www.vishwapreneur.in/"
+  }
+]
